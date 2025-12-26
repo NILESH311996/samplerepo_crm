@@ -8,6 +8,4 @@ public class Create_leads
       WebDriver driver= new ChromeDriver();
       
       
-	
-	
 }
