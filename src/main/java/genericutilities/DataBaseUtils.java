@@ -27,6 +27,8 @@ import com.mysql.jdbc.Driver;
 			// get connection for databse
 
 			conn = DriverManager.getConnection(IPathConstants.dbUrl, IPathConstants.dbusername, IPathConstants.Dbpassword);
+			
+			// this is database utils
 		}
 
 }
